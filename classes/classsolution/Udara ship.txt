@@ -1,0 +1,62 @@
+Cruise Ship Boarding Cabin Data File
+
+
+Cabin number :- 0
+
+Passenger 1 details 
+First name :- KOLO
+Surname :- JIMBO
+Expense :- 890.0
+
+Passenger 2 details 
+First name :- -
+Surname :- -
+Expense :- 0.0
+
+Passenger 3 details 
+First name :- -
+Surname :- -
+Expense :- 0.0
+1empty cabin
+2empty cabin
+3empty cabin
+4empty cabin
+5empty cabin
+
+Cabin number :- 6
+
+Passenger 1 details 
+First name :- REYU
+Surname :- IOP
+Expense :- 45690.0
+
+Passenger 2 details 
+First name :- -
+Surname :- -
+Expense :- 0.0
+
+Passenger 3 details 
+First name :- -
+Surname :- -
+Expense :- 0.0
+7empty cabin
+8empty cabin
+9empty cabin
+10empty cabin
+
+Cabin number :- 11
+
+Passenger 1 details 
+First name :- SOLO
+Surname :- NIRO
+Expense :- 56790.0
+
+Passenger 2 details 
+First name :- -
+Surname :- -
+Expense :- 0.0
+
+Passenger 3 details 
+First name :- -
+Surname :- -
+Expense :- 0.0
